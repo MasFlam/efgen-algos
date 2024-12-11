@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-// Example DFT usage: multiplying polynomials.
+// Example DFT usage: multiplying polynomials. (DFT over the complex numbers)
 
 using complex = std::complex<double>;
 
